@@ -1,2 +1,2 @@
 # English-with-Mr.-Rizky
-online English platform
+Online English Platform
